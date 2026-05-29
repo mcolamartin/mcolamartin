@@ -1,1 +1,4 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=8fdef2&text=Miguel%20Martin&fontColor=547cff&textBg=true&stroke=2205ff">
+<ul>Interesse em Aprender</ul>
+<ul>Cátolico</ul>
+<ul>Corintiano</ul>
